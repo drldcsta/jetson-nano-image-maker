@@ -4,7 +4,7 @@
 # Author: Badr BADRI © pythops
 # License: MIT
 #
-
+# Changelog: 0.1
 set -e
 
 BSP=https://developer.nvidia.com/downloads/remetpack-463r32releasev73t210jetson-210linur3273aarch64tbz2
